@@ -1,5 +1,4 @@
 # RuntimeObjectCreation
-================================================================================
 
 I have defined a counter variable to set a unique text for each new button:
 
