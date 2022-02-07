@@ -7,7 +7,7 @@ I have defined a counter variable to set a unique text for each new button:
 Note that I have used the viewBinding feature. To use it, open the Gradle script
 of your module, and then write within `android {}`:
 
-```
+```gradle
 buildFeatures {
     viewBinding true
 }
