@@ -17,7 +17,7 @@ Let's move on. This line:
 
     binding.buttonMain.setOnClickListener(v -> createNewButton());
 
-is intended to handle the `OnClickListener` event via an anonymous function calling
+It is intended to handle the `OnClickListener` event via an anonymous function calling
 the `createNewButton()` method. The `createNewButton()` is defined as follows:
 
 ```java
